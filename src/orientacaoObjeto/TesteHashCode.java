@@ -1,4 +1,6 @@
-package orientacaoObjeto.models;
+package orientacaoObjeto;
+
+import orientacaoObjeto.models.Person;
 
 import java.util.HashSet;
 import java.util.Set;

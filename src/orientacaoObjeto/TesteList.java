@@ -1,4 +1,6 @@
-package orientacaoObjeto.models;
+package orientacaoObjeto;
+
+import orientacaoObjeto.models.User;
 
 import java.util.ArrayList;
 

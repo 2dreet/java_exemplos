@@ -1,4 +1,4 @@
-package orientacaoObjeto.models.heranca;
+package orientacaoObjeto.heranca;
 
 public class Jogador {
 

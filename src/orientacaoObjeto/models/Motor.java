@@ -1,5 +1,7 @@
 package orientacaoObjeto.models;
 
+import orientacaoObjeto.models.Carro;
+
 public class Motor {
 
     public boolean ligado;

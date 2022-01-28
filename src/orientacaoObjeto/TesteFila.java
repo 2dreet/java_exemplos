@@ -1,4 +1,4 @@
-package orientacaoObjeto.models;
+package orientacaoObjeto;
 
 import java.util.LinkedList;
 import java.util.Queue;

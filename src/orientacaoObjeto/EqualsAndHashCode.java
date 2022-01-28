@@ -1,4 +1,6 @@
-package orientacaoObjeto.models;
+package orientacaoObjeto;
+
+import orientacaoObjeto.models.User;
 
 public class EqualsAndHashCode {
     public static void main(String[] args) {

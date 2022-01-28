@@ -1,4 +1,9 @@
-package orientacaoObjeto.models;
+package orientacaoObjeto;
+
+import orientacaoObjeto.models.Cliente;
+import orientacaoObjeto.models.Compra;
+import orientacaoObjeto.models.Item;
+import orientacaoObjeto.models.Produto;
 
 public class DesafioCompraCliente {
     public static void main(String[] args) {

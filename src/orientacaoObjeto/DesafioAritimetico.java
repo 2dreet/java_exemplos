@@ -1,4 +1,4 @@
-package orientacaoObjeto.models;
+package orientacaoObjeto;
 
 public class DesafioAritimetico {
 

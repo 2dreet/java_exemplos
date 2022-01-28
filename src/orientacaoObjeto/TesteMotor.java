@@ -1,4 +1,6 @@
-package orientacaoObjeto.models;
+package orientacaoObjeto;
+
+import orientacaoObjeto.models.Carro;
 
 public class TesteMotor {
 

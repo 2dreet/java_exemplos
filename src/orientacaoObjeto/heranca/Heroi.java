@@ -1,4 +1,4 @@
-package orientacaoObjeto.models.heranca;
+package orientacaoObjeto.heranca;
 
 // aqui o extends herdar a classe Jogador
 public class Heroi extends Jogador {

@@ -1,7 +1,7 @@
-package orientacaoObjeto.models;
+package orientacaoObjeto;
 
-import orientacaoObjeto.models.heranca.Civic;
-import orientacaoObjeto.models.heranca.Ferrari;
+import orientacaoObjeto.heranca.Civic;
+import orientacaoObjeto.heranca.Ferrari;
 
 public class DesafioHeranca1 {
     public static void main(String[] args) {

@@ -37,5 +37,13 @@ public class TesteReduce2 {
                 .reduce(somatorio)
                 .ifPresent(System.out::println);
 
+        String lineSeparator = System.getProperty("line.separator");
+
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append("Id".concat(lineSeparator));
+
+        alunos.stream().forEach(row -> stringBuilder.append(row.getNome().concat(lineSeparator)));
+
+        System.out.println(stringBuilder.toString());
     }
 }
